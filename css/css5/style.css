@@ -90,7 +90,7 @@ font-family: verdena;
     width: 50%;
     top: -750px;
     line-height: 1.6;
-    left: 40%;
+    left: 45%;
 
   }
 
@@ -110,7 +110,20 @@ font-family: verdena;
     left: 15%;
   }
 }
+@media screen and (max-width: 1200px) {
+  div.viki1 h2{
+    position:relative;
+    color: red;
+    font-family: Tw Cen MT;
+    font-size: 3.5vw;
+    font-style: italic;
+    width: 53%;
+    top: -750px;
+    line-height: 1.6;
+    left: 45%;
 
+  }
+}
 @media  (max-width: 900px) {
   div.viki h1{
     top: -800px;
