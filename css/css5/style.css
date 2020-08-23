@@ -190,8 +190,8 @@ font-family: verdena;
 
 .sss h1{
 		position: absolute;
-		top: 2900px;
-		left: 400px;
+		margin-top: -38%;
+		left: 29%;
 		color:#696969;
 		font-family: colonna MT;
 		text-decoration: underline;
@@ -213,8 +213,8 @@ font-family: verdena;
 			position: absolute;
 			width: 100%;
 			max-width: 600px;
-			margin-left:818px;
-			margin-top: -500px;
+			margin-left:55%;
+			margin-top: -33%;
 			height: auto;
 		}
 	@media screen and (max-width: 600px) {
