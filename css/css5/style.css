@@ -190,7 +190,7 @@ font-family: verdena;
 
 .sss h1{
 		position: absolute;
-		margin-top: -38%;
+		margin-top: -43%;
 		left: 29%;
 		color:#696969;
 		font-family: colonna MT;
@@ -225,7 +225,17 @@ font-family: verdena;
     max-width: 300px;
   }
 }
-
+@media screen and (max-width: 1200px) {
+  div.vimi{
+    position: absolute;
+      width: 100%;
+      max-width: 420px;
+      margin-left:58%;
+      margin-top: -40%;
+      height: auto;
+    
+  }
+}
 .vimi{
 	-webkit-transform:rotate(334deg);  
   -moz-transform: rotate(334deg);  
