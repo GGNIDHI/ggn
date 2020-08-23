@@ -230,8 +230,8 @@ font-family: verdena;
     position: absolute;
       width: 100%;
       max-width: 420px;
-      margin-left:58%;
-      margin-top: -40%;
+      margin-left:55%;
+      margin-top: -35%;
       height: auto;
     
   }
@@ -272,7 +272,20 @@ font-family: verdena;
   
   }
 }
-
+@media screen and (max-width: 1200px) {
+  div.sas h2{
+    color:#696969;
+    position: relative;
+    font-family: Tw Cen MT;
+    font-size: 3.2vw;
+    top: -400px;
+    width: 500px;
+    left: 100px;
+    font-style: italic;
+    
+  
+  }
+}
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 
