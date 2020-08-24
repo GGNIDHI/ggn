@@ -1,9 +1,10 @@
-.testimonial_area{margin-top:-180px;
-margin-bottom: -50px;}
+.testimonial_area{margin-top:-280px;
+margin-bottom: 0px;}
 
 
 @media (max-width: 600px){
-	.testimonial_area{padding-bottom:180px}
+	.testimonial_area{padding-bottom:180px;
+	padding-top:100px;}
 	}
 
 @media (min-width: 1200px){
@@ -17,12 +18,12 @@ margin-bottom: -50px;}
 	font-size: 4vw;
 	font-family:showcard gothic;
 	 color:orange;
-	 margin-top: -170px;
+	 margin-top: -40%;
 	 padding-bottom: 250px;
 }
 @media (max-width: 600px){
 	.labo h2{
-		margin-top: -500px;
+		margin-top: 50px;
 		padding-bottom: 150px;
 		font-size: 35px;
 	}
