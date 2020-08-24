@@ -253,7 +253,7 @@ font-family: verdena;
 		}
 	@media screen and (max-width: 900px) {
   div.vimi{
-    margin-top: -150%;
+    margin-top: 37%;
     right:0px;
     margin-right: -30px;
     max-width: 300px;
@@ -299,7 +299,7 @@ font-family: verdena;
     position: relative;
     font-family: Tw Cen MT;
     font-size: 20px;
-    top: -550px;
+    top: 170px;
     width: 230px;
     left: 30px;
     font-style: italic;
