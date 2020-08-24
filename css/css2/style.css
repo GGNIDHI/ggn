@@ -28,6 +28,17 @@ margin-bottom: 0px;}
 		font-size: 35px;
 	}
 }
+
+@media (min-width: 1200px){
+	.labo h2{
+		text-align: center;
+	font-size: 4vw;
+	font-family:showcard gothic;
+	 color:orange;
+	 margin-top: -250px;
+	 padding-bottom: 250px;
+	}
+}
 .testimonial-slider{position:relative;z-index:1}
 .testimonial-slider::after{
 content:"";
