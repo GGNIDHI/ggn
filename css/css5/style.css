@@ -103,11 +103,11 @@ font-family: verdena;
     position:relative;
     color: white;
     font-family: Tw Cen MT;
-    font-size: 26px;
+    font-size: 24px;
     font-style: italic;
     line-height: 1.6;
     width: 330px;
-    left: 15%;
+    left: 13%;
   }
 }
 @media screen and (min-width: 1200px) {
