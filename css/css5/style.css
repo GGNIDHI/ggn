@@ -85,7 +85,7 @@ font-family: verdena;
     position:relative;
     color: white;
     font-family: Tw Cen MT;
-    font-size: 2.5vw;
+    font-size: 3.3vw;
     font-style: italic;
     width: 50%;
     top: -750px;
@@ -103,19 +103,19 @@ font-family: verdena;
     position:relative;
     color: black;
     font-family: Tw Cen MT;
-    font-size: 25px;
+    font-size: 28px;
     font-style: italic;
     line-height: 1.6;
     width: 330px;
     left: 15%;
   }
 }
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 1200px) {
   div.viki1 h2{
     position:relative;
-    color: red;
+    color: white;
     font-family: Tw Cen MT;
-    font-size: 3.5vw;
+    font-size: 2.5vw;
     font-style: italic;
     width: 53%;
     top: -750px;
@@ -124,11 +124,11 @@ font-family: verdena;
 
   }
 }
-@media  (max-width: 900px) {
+@media  screen and (max-width: 900px) {
   div.viki h1{
     top: -800px;
     font-size: 50px;
-    padding-left: 50px;
+    padding-left: 20%;
     position: relative;
     font-family: colonna MT;
     color: black;
@@ -136,7 +136,17 @@ font-family: verdena;
   }
 }
 
-
+@media  screen and (min-width: 1200px) {
+  div.viki h1{
+    top: -800px;
+    font-size: 8vw;
+    padding-left: 40%;
+    position: relative;
+    font-family: colonna MT;
+    color: black;
+    text-decoration: underline;
+  }
+}
 
 
 
