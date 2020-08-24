@@ -345,6 +345,7 @@ font-family: verdena;
 	font-size: 10vw;
   	color: white;
   	text-align: center;
+	margin-top:80px;
   	-webkit-animation: glow 1s ease-in-out infinite alternate;
   	-moz-animation: glow 1s ease-in-out infinite alternate;
   	animation: glow 1s ease-in-out infinite alternate;
