@@ -1,4 +1,4 @@
-.testimonial_area{margin-top:-280px;
+.testimonial_area{margin-top:-240px;
 margin-bottom: 0px;}
 
 
@@ -9,7 +9,7 @@ margin-bottom: 0px;}
 
 @media (min-width: 1200px){
 	.testimonial_area{padding-bottom:0px;
-	margin-bottom:-130px;}
+	margin-bottom:30px;}
 }
 
 
