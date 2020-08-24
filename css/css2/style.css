@@ -3,7 +3,7 @@ margin-bottom: 0px;}
 
 
 @media (max-width: 600px){
-	.testimonial_area{padding-bottom:180px;
+	.testimonial_area{padding-bottom:0px;
 	padding-top:100px;}
 	}
 
@@ -23,7 +23,7 @@ margin-bottom: 0px;}
 }
 @media (max-width: 600px){
 	.labo h2{
-		margin-top: 50px;
+		margin-top: 30%;
 		padding-bottom: 150px;
 		font-size: 35px;
 	}
