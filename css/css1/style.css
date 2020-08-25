@@ -55,12 +55,12 @@ width: 100%;}
         width: 100%; } }
   .intro-section .intro h1 {
 
-    font-size: 5em;
+    font-size: 7em;
     font-weight: 1500;
     line-height: 1.5;
     color: #595959;
-    margin-top: 30px;
-padding-bottom:80%;}
+    margin-top: 50px;
+padding-bottom:40%;}
     @media (max-width: 767px) {
       .intro-section .intro h1 {
         font-size: 5em;
@@ -223,7 +223,7 @@ padding-left: 80px;
 
 .news-entry-item h2 {
   font-weight: 700;
-  font-size: 8vw;
+  font-size: 7vw;
   padding-left: 20%;
   padding-bottom: 60px; }
   .news-entry-item h2 a {
@@ -293,7 +293,7 @@ padding-left: 80px;
 }
 @media screen and (max-width: 600px){
   #tth{
-    height:250px;
+    height:300px;
     width: 100%;
   }
 }
@@ -325,4 +325,40 @@ padding-left: 80px;
 		div.l_title img{
 			width:100%;
 		}
+}
+
+#cup{
+  font-family:viner-hand ITC;
+  font-size: 2.5vw;
+  line-height: 1.5; 
+  padding-left: -20px; 
+  font-style: italic;
+  padding-top: 250px;
+}
+@media screen and (max-width: 600px){
+  #cup{
+    padding-top: 50px;
+    font-size: 6vw;
+  }
+}
+@media screen and (min-width: 1200px){
+  #cup{
+    font-family:viner-hand ITC;
+  font-size: 2.5vw;
+  line-height: 1.5; 
+  padding-left: -20px; 
+  font-style: italic;
+  margin-top: -150px;
+  }
+}
+figure img{
+  float: right;
+  padding: 20px 0px 100px 50px;
+}
+
+@media screen and (max-width: 600px){
+  .img-thumbnail{ 
+    width: 250px;
+    height: auto;
+  }
 }
