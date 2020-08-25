@@ -59,7 +59,7 @@ font-family: verdena;
 @media screen and (max-width: 900px) {
   figure.figg{
     margin-top: -20px;
-	  margin-left:30%;
+	  margin-left:27%;
   }
 }
 
@@ -258,8 +258,8 @@ font-family: verdena;
 	@media screen and (max-width: 900px) {
   div.vimi{
     margin-top: 29%;
-    margin-left:26%;
-    max-width: 280px;
+    margin-left:25%;
+    max-width: 250px;
   }
 }
 @media screen and (min-width: 1200px) {
