@@ -240,7 +240,7 @@ padding-left: 80px;
 @media screen and(max-width:600px){
 	.news-entry-item h2{
 		font-weight:700;
-		font-size:6vw;
+		font-size:10vw;
 		padding-left:20%;
 		padding-bottom:60px;}}
 
