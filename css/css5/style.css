@@ -19,7 +19,7 @@ font: bold;
 font-size: 8vw;
 font-family: verdena;
  margin-top: -980px;
- margin-left: 200px;
+ margin-left: 12%;
   padding-top: 50px;"
   position: relative;
   text-decoration: underline;
@@ -64,7 +64,12 @@ font-family: verdena;
   }
 }
 
-
+@media screen and (max-width: 900px){
+  .grp{
+    padding-left: 20%;
+    width: 100%;
+  }
+}
 
 
 .about-mits{
@@ -214,7 +219,7 @@ font-family: verdena;
 .sss h1{
 		position: absolute;
 		margin-top: -65%;
-		left: 29%;
+		left: 28%;
 		color:#696969;
 		font-family: colonna MT;
 		text-decoration: underline;
@@ -247,15 +252,15 @@ font-family: verdena;
 			position: absolute;
 			width: 100%;
 			max-width: 420px;
-			margin-left:49%;
-			margin-top: -60%;
+			margin-left:55%;
+			margin-top: -57%;
 			height: auto;
 		}
 	@media screen and (max-width: 900px) {
   div.vimi{
-    margin-top: 28%;
-    right:-35px;
-    max-width: 280px;
+    margin-top: 29%;
+    margin-left:26%;
+    max-width: 320px;
   }
 }
 @media screen and (min-width: 1200px) {
@@ -264,18 +269,18 @@ font-family: verdena;
       width: 100%;
       max-width: 600px;
       margin-left:53%;
-      margin-top: -35%;
+      margin-top: -32%;
       height: auto;
     
   }
 }
-.vimi{
+/*.vimi{
 	-webkit-transform:rotate(334deg);  
   -moz-transform: rotate(334deg);  
   -ms-transform: rotate(334deg);  
   -o-transform: rotate(334deg);  
   transform: rotate(334deg);  
-}
+}*/
 
 
 
