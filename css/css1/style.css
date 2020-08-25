@@ -59,7 +59,7 @@ width: 100%;}
     font-weight: 1500;
     line-height: 1.5;
     color: #595959;
-    margin-top: -150%;
+    margin-top: -200%;
 }
     @media (max-width: 600px) {
       .intro-section .intro h1 {
