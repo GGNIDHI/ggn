@@ -55,12 +55,12 @@ width: 100%;}
         width: 100%; } }
   .intro-section .intro h1 {
 
-    font-size: 7em;
+    font-size: 10em;
     font-weight: 1500;
     line-height: 1.5;
     color: #595959;
     margin-top: 50px;
-padding-bottom:40%;}
+}
     @media (max-width: 767px) {
       .intro-section .intro h1 {
         font-size: 5em;
