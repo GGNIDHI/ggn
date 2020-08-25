@@ -60,12 +60,12 @@ width: 100%;}
     line-height: 1.5;
     color: #595959;
     margin-top: 50px;
-padding-bottom:50%;}
+padding-bottom:80%;}
     @media (max-width: 767px) {
       .intro-section .intro h1 {
-        font-size: 3em;
+        font-size: 5em;
         color:#595959 ;
-        margin-top: -280px;
+        margin-top: -150px;
          } }
 @media (min-width: 1200px) {
       .intro-section .intro h1 {
@@ -308,18 +308,3 @@ padding-left: 80px;
 			width:100%;
 		}
 }
-
-@media screen and (min-width: 1200px){
-  #star{
-    padding-top: 300px;
-  }
-}
-
-
-#star{
-  font-family:viner-hand ITC;
-  font-size: 36px;
-  line-height: 1.5;
-   padding-left: -10px; 
-   font-style: italic;
-padding-top: 500px;}
