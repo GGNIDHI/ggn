@@ -59,14 +59,13 @@ font-family: verdena;
 @media screen and (max-width: 900px) {
   figure.figg{
     margin-top: -20px;
-    margin-right: 45px;
-	  margin-left:20px;
+	  margin-left:40%;
   }
 }
 
 @media screen and (max-width: 900px){
   .grp{
-    padding-left: 20%;
+    padding-left: 5%;
     width: 100%;
   }
 }
