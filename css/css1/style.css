@@ -353,7 +353,7 @@ padding-left: 80px;
   }
 }
 figure img{
-  float: right;
+  float: left;
 	text-align:center;
   padding: 20px 0px 100px 50px;
 }
