@@ -65,7 +65,8 @@ width: 100%;}
       .intro-section .intro h1 {
         font-size: 5em;
         color:#595959 ;
-        margin-top: 30%;
+        margin-top: 20%;
+	      padding-bottom:30%
          } }
 @media (min-width: 1200px) {
       .intro-section .intro h1 {
