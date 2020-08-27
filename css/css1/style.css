@@ -102,14 +102,13 @@ padding-left: 80px;
 
 
 .intro-section .ggn h1 {
-	font-size: 10.5vw;
+	font-size: 10vw;
     font-weight: 1500;
     line-height: 1.5;
     color: white;
     width: 500px;
     margin-left: -60px;
-    margin-top: -500px;
-	margin-bottom:-100px;
+    margin-top: 50px;
 	
      }
     @media (max-width: 600px) {
