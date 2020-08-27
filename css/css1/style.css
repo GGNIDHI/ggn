@@ -109,6 +109,7 @@ padding-left: 80px;
     color: white;
     width: 600px;
     margin-left: -60px;
+	padding-top:25%;
      }
     @media (max-width: 600px) {
       .intro-section .ggn h1 {
