@@ -35,22 +35,22 @@ $(document).ready(function(){
             },
             messages: {
                 name: {
-                    required: "come on, you have a name, don't you?",
+                    required: "Alas..! How can you forget your name ..?",
                     minlength: "your name must consist of at least 2 characters"
                 },
                 subject: {
-                    required: "come on, you have a subject, don't you?",
+                    required: "It's better if you send with an appropriate subject ...",
                     minlength: "your subject must consist of at least 4 characters"
                 },
                 number: {
-                    required: "come on, you have a number, don't you?",
-                    minlength: "your Number must consist of at least 5 characters"
+                    required: "Oh..! How can we contact you ...please provide a number.",
+                    minlength: "your Number must consist of at least 10 characters"
                 },
                 email: {
                     required: "no email, no message"
                 },
                 message: {
-                    required: "um...yea, you have to write something to send this form.",
+                    required: "Ooooooh.....Ooooooh , Write something here ...",
                     minlength: "thats all? really?"
                 }
             },
