@@ -61,7 +61,7 @@ display:block;
 position:absolute;
 top:0px;
 left:-185px;
-transform:scale(0.8);
+transform:scale(0.4);
 background:url(ggn-bg.png) left center no-repeat;
 background-size:cover;
 z-index:-1;
