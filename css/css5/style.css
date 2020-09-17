@@ -250,7 +250,7 @@ font-family: verdena;
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (min-width: 450px) {
   div.sss h1{
     position: relative !important;
     margin-top:-130% !important;
