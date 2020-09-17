@@ -239,7 +239,7 @@ font-family: verdena;
 		text-decoration: underline;
 
 	}
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 455px) {
   div.sss h1{
     position: relative;
     margin-top:-130% !important;
@@ -250,7 +250,7 @@ font-family: verdena;
   }
 }
 
-@media screen and (min-width: 455px) and (max-width:900px) {
+@media screen and (min-width: 460px) and (max-width:900px) {
   div.sss h1{
     position: relative;
     margin-top:-200% !important;
