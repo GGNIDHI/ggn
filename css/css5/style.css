@@ -285,8 +285,8 @@ font-family: verdena;
 		}
 	@media screen and (max-width: 900px) {
   div.vimi{
-    margin-top: 26%;
-    margin-left:45%;
+    margin-top: 28%;
+    margin-left:40%;
     max-width: 220px;
   }
 }
