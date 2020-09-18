@@ -253,7 +253,7 @@ font-family: verdena;
 @media screen and (max-width:900px) {
   div.sss h1{
     position: relative;
-    margin-top:-180% !important;
+    margin-top:-165% !important;
     margin-left: 28% ;
     color:#696969;
     font-family: colonna MT;
@@ -285,8 +285,8 @@ font-family: verdena;
 		}
 	@media screen and (max-width: 900px) {
   div.vimi{
-    margin-top: 36%;
-    margin-left:39%;
+    margin-top: 37%;
+    margin-left:38%;
     max-width: 220px;
   }
 }
